@@ -1,0 +1,23 @@
+{
+  "name": "JEST-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharqiewicz/JEST-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharqiewicz/JEST-basics/issues"
+  },
+  "homepage": "https://github.com/Sharqiewicz/JEST-basics#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
